@@ -159,10 +159,3 @@ Please follow the licensing and usage terms of these datasets and the challenge.
 
 Built on the SimulaMet Kvasir-VQA baselines and the open-source Qwen2.5-VL, MedGemma, and SAM model families. Thanks to the ImageCLEFmed MEDVQA-GI 2026 organizers.
 
-## Citation
-
-If you build on this work, please cite the corresponding CEUR working-notes paper for the ImageCLEFmed MEDVQA-GI 2026 challenge (team CSMorgan-MEDVQA). _Add the BibTeX entry here once the working notes are published._
-
-## License
-
-Code in this repository: add your chosen license (e.g. MIT) here. Model weights and datasets remain under their respective upstream licenses.
